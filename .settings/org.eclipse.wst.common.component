@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?><project-modules id="moduleCoreId" project-version="1.5.0">
-    <wb-module deploy-name="Comp303FinalProject">
+    <wb-module deploy-name="OrderingWebApplication">
         <wb-resource deploy-path="/" source-path="/WebContent" tag="defaultRootSource"/>
         <wb-resource deploy-path="/WEB-INF/classes" source-path="/src"/>
-        <property name="context-root" value="Comp303FinalProject"/>
-        <property name="java-output-path" value="/Comp303FinalProject/build/classes"/>
+        <property name="java-output-path" value="/OrderingWebApplication/build/classes"/>
+        <property name="context-root" value="OrderingWebApplication"/>
     </wb-module>
 </project-modules>
